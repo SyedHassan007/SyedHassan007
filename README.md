@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**SyedHassan007/SyedHassan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction  
+Detail-oriented Data Analyst with expertise in collecting, processing, and analyzing large datasets to deliver actionable insights. Skilled in SQL, Python, and data visualization tools to support business decision-making. Experienced in building dashboards, automating reports, and applying statistical techniques to solve real-world problems.  
 
-Here are some ideas to get you started:
+Also explores deep learning methods (ANN, CNN, RNN, LSTM, Transformers) for predictive analytics and AI-driven insights. Passionate about turning raw data into meaningful strategies that drive organizational growth.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills  
+
+- **Programming & Analysis:** Python, SQL  
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Machine Learning & AI:** scikit-learn, TensorFlow, Keras, PyTorch  
+- **Deep Learning Architectures:** ANN, CNN, RNN, LSTM, Transformers  
+- **Other Tools:** Excel, Git, Jupyter Notebook, Pandas, NumPy  
+
+---
+
+### 🌐 Social Links  
+
+- [GitHub](https://github.com/SyedHassan007)  
+- [LinkedIn](https://www.linkedin.com/in/syed-hassan-7b610829a)  
+
+---
