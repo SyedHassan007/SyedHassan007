@@ -1,7 +1,6 @@
-<!-- Profile Banner (Optional) -->
 <!-- You can create a banner in Canva and upload it to your repo, then replace the link below -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGteE_nflXG1A/profile-displaybackgroundimage-shrink_350_1400/B56Zk5ZypMI0Ac-/0/1757604689391?e=1762387200&v=beta&t=IEAoUnzk9-qXgosjXehxYL1Xoh9TpEtp-yMkOHLSAnY" alt="Hassan - Data Analyst | ML Enthusiast" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGteE_nflXG1A/profile-displaybackgroundimage-shrink_350_1400/B56Zk5ZypMI0Ac-/0/1757604689391?e=1762387200&v=beta&t=IEAoUnzk9-qXgosjXehxYL1Xoh9TpEtp-yMkOHLSAnY" alt="Hassan - Data Analyst | Data Scientist | ML Enthusiast" />
 </p>
 
 # Hi there 👋, I'm Syed Allahdad Hassan  
