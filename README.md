@@ -5,7 +5,8 @@
 
 # Hi there 👋, I'm Syed Allahdad Hassan  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&width=435&lines=Data+Analyst;Data Scientist;Machine+Learning+Explorer;Turning+Data+into+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&pause=1000&color=00C853&width=435&lines=Data%20Analyst;Data%20Scientist;Machine%20Learning%20Explorer;Turning%20Data%20into%20Insights)](https://git.io/typing-svg)
+
 
 ---
 
