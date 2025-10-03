@@ -1,10 +1,10 @@
 <!-- Profile Banner (Optional) -->
 <!-- You can create a banner in Canva and upload it to your repo, then replace the link below -->
 <p align="center">
-  <img src="https://your-banner-link-here" alt="Junaid - Data Analyst | ML Enthusiast" />
+  <img src="(https://media.licdn.com/dms/image/v2/D5616AQGteE_nflXG1A/profile-displaybackgroundimage-shrink_350_1400/B56Zk5ZypMI0Ac-/0/1757604689391?e=1762387200&v=beta&t=IEAoUnzk9-qXgosjXehxYL1Xoh9TpEtp-yMkOHLSAnY)" alt="Hassan - Data Analyst | ML Enthusiast" />
 </p>
 
-# Hi there 👋, I'm Junaid  
+# Hi there 👋, I'm Syed Allahdad Hassan  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&width=435&lines=Data+Analyst;Machine+Learning+Explorer;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
