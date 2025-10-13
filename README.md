@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Syed Allahdad Hassan</h1>
 <h3 align="center">A passionate Data Analyst & Machine Learning Explorer</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C853&width=435&lines=Data+Analyst;Data+Scientist;Machine+Learning+Explorer;Turning+Data+into+Insights" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
