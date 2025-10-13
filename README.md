@@ -1,7 +1,4 @@
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGteE_nflXG1A/profile-displaybackgroundimage-shrink_350_1400/B56Zk5ZypMI0Ac-/0/1757604689391?e=1762387200&v=beta&t=IEAoUnzk9-qXgosjXehxYL1Xoh9TpEtp-yMkOHLSAnY" alt="Hassan - Data Analyst | Data Scientist | ML Enthusiast" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Syed Allahdad Hassan</h1>
 <h3 align="center">A passionate Data Analyst & Machine Learning Explorer</h3>
